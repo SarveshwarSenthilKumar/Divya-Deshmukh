@@ -1481,8 +1481,8 @@
                 <div class="chesscom-stats glass-card">
                     <div class="stat-item">
                         <h3>Chess.com Username</h3>
-                        <div class="stat-value" id="chesscom-username">divyadeshmukh</div>
-                        <div class="stat-description"><a href="https://www.chess.com/member/divyadeshmukh" target="_blank" style="color:var(--secondary);">View Chess.com Profile</a></div>
+                        <div class="stat-value" id="chesscom-username">divyadeshmukh23</div>
+                        <div class="stat-description"><a href="https://www.chess.com/member/divyadeshmukh23" target="_blank" style="color:var(--secondary);">View Chess.com Profile</a></div>
                     </div>
                     <div class="stat-item">
                         <h3>Lichess Username</h3>
@@ -1638,7 +1638,7 @@
                     <h4>Divya Deshmukh</h4>
                     <p>Indian Chess Grandmaster, 2025 Women's World Cup Champion, and 2024 World Junior Girls Champion.</p>
                     <div class="social-links">
-                        <a href="https://www.chess.com/member/divyadeshmukh" target="_blank"><i class="fas fa-chess"></i></a>
+                        <a href="https://www.chess.com/member/divyadeshmukh23" target="_blank"><i class="fas fa-chess"></i></a>
                         <a href="https://lichess.org/@/divyadeshmukh" target="_blank"><i class="fas fa-chess-board"></i></a>
                         <a href="https://ratings.fide.com/profile/25092360" target="_blank"><i class="fas fa-globe"></i></a>
                     </div>
@@ -1663,6 +1663,7 @@
                         <li><a href="https://en.wikipedia.org/wiki/Divya_Deshmukh" target="_blank">Wikipedia</a></li>
                         <li><a href="https://aicf.in/player-profile/divya-deshmukh" target="_blank">All India Chess Federation</a></li>
                         <li><a href="https://www.fide.com/players/divya-deshmukh" target="_blank">FIDE Profile</a></li>
+                        <li><a href="https://www.chess.com/players/divya-deshmukh" target="_blank">Chess.com Overview</a></li>
                     </ul>
                 </div>
             </div>
@@ -1925,7 +1926,7 @@
         // Chess.com API Integration
         async function fetchChesscomStats() {
             try {
-                const response = await fetch('https://api.chess.com/pub/player/divyadeshmukh/stats');
+                const response = await fetch('https://api.chess.com/pub/player/divyadeshmukh23/stats');
                 const data = await response.json();
                 document.getElementById('chesscom-rapid').textContent = data.chess_rapid.last.rating;
                 document.getElementById('chesscom-rapid-peak').textContent = data.chess_rapid.best.rating;
