@@ -9,7 +9,7 @@ This is a tribute to **Divya Deshmukh**, an extraordinary chess player and role 
 - 🏆 Woman Grandmaster (WGM) title achieved at just 13 years old
 - 🌍 World Youth Chess Champion (Girls U10)
 - 🇮🇳 Multiple-time Indian national champion
-- 🏅 International Master (IM) title holder
+- 🏅  Grandmaster (GM) title holder
 - 🏆 Chess Olympiad participant representing India
 
 ## 🌟 Why She Inspires
